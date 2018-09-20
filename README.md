@@ -1,5 +1,15 @@
 # Eesti keele HTS-kõnesüntesaator
 
+## HTS-kõnesünteesi skeem
+
+Ehkki süntesaatori väljundkõnelaine segmentaalne kvaliteet pole nii hea kui üksuste valikul põhineval sünteesil, on HTS-sünteesil ka mitu eelist. Esiteks on sünteesitav väljundkõne ladus ja sorav. Teiseks on sünteesiprotsess reaalajas juhitav, võimalik on muuta kõnetempot, häälekõrgust ja -tämbrit. Kolmandaks on sünteesimootor kompaktne, sest peale treenimisprotsessi ei vaja sünteesimootor enam suuri kõnekorpusi.
+
+Loe lisaks: [EKI Kõnesüntees]
+
+[EKI Kõnesüntees]: https://www.eki.ee/heli/index.php?option=com_content&view=article&id=6&Itemid=465#HTS
+
+## Copyrights
+
            The HMM-Based Speech Synthesis Engine "hts_engine API"  
            developed by HTS Working Group                          
            http://hts-engine.sourceforge.net/                      
